@@ -14,6 +14,14 @@ const cars = [
       topSpeed: 150,
       zeroToSixty: 3.2
     }
+  },
+  {
+    model: "bmw",
+    coloursByPopularity: ["red", "white"],
+    speedStats: {
+      topSpeed: 150,
+      zeroToSixty: 3.2
+    }
   }
 ];
 
